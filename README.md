@@ -1,4 +1,4 @@
-# Registration Form (Only FrontEnd)
+# Applying Validation on Registration Form
 
 You can use below link to know how to create this app
 
